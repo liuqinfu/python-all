@@ -14,3 +14,4 @@ func()
 print(x)
 '''
 
+import hash.hash
